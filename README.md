@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hoda Hatem
+I'm Hoda Hatem
 
 I'm a Computer Science student at the Faculty of Science, Ain Shams University.
 
@@ -10,38 +10,38 @@ In the future, I’d love to learn more about Artificial Intelligence and work o
 
 My goal is to become a skilled developer, build a strong portfolio, and eventually start working with clients or companies who believe in what I can offer.
 
----
 
-## 🔧 Skills
 
-- **Languages:** HTML, CSS, C++, Python  
-- **Learning:** JavaScript  
-- **Tools:** Git, GitHub, VS Code, Canva
+Skills
 
----
+- Languages: HTML, CSS, C++, Python  
+- Learning: JavaScript  
+- Tools: Git, GitHub, VS Code, Canva
 
-## 📁 Projects
 
-### ☕ Coffee Machine Program  
+
+Projects
+
+Coffee Machine Program  
 A simple Python project that simulates a coffee vending machine.  
 It asks the user to choose a drink, checks if resources are enough, processes coins, and returns change if needed.  
 It also includes a report function and shutdown option.
 
-### 🔐 Text Encryption Program  
+Text Encryption Program  
 This Python program lets the user encrypt and decrypt messages using a basic Caesar cipher.  
 It was a great way to practice loops, strings, and user input.
 
-### 🧮 Simple Calculator  
+Simple Calculator  
 A small calculator made with Python. It handles basic operations like addition, subtraction, multiplication, and division.  
 Perfect for getting used to functions and conditionals.
 
-### 🌐 Portfolio Website  
+Portfolio Website  
 A personal website built using HTML and CSS.  
 It includes my bio, projects, and contact details — and I plan to improve it as I learn more.
 
----
 
-## 🎯 Goals
+
+Goals
 
 - Learn JavaScript and React  
 - Build more real-world projects  
@@ -49,13 +49,11 @@ It includes my bio, projects, and contact details — and I plan to improve it a
 - Explore AI and its applications  
 - Keep learning and improving step by step
 
----
 
-## 📫 Contact
+contact
+-Email: hodahatem324@gmail.com  
+- LinkedIn: [linkedin.com/in/hoda-hatem](https://www.linkedin.com/in/hoda-hatem-12075836a)
 
-- **Email:** hodahatem324@gmail.com  
-- **LinkedIn:** [linkedin.com/in/hoda-hatem](https://www.linkedin.com/in/hoda-hatem-12075836a)
 
----
 
-Thanks for visiting my profile!
+Thanks for visiting my profile.
