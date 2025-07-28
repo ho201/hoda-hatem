@@ -1,41 +1,61 @@
-👋 Hi, I'm hoda Hatem
-🎓 Computer Science student at Faculty of Science, Ain Shams University  
----
-💡 About Me
-I'm a passionate and ambitious Computer Science student who recently started her journey in the programming world.  
-Although I'm still a beginner, I'm committed to learning and growing every day.
-I discovered my interest in Web Development, and since then I’ve been building a strong foundation in front-end technologies.  
-I’m also fascinated by the world of Artificial Intelligence , and I believe it’s the future — that’s why I’m determined to keep learning and evolving in both fields.
----
-🛠 Skills & Learning Path
-- 🌐 Front-End:
-  
-  - ✅ Currently learning: HTML, CSS
-  - 🔜 Next goals: JavaScript, React
+# 👋 Hi, I'm Hoda Hatem
 
- - 💻 Back-End & Programming:
-  
-  - ✅ Solid understanding of C++
-  - ✅ Taken a course in Python
+I'm a Computer Science student at the Faculty of Science, Ain Shams University.
+
+I started learning programming a few months ago, and I'm really enjoying the journey so far.  
+Right now, I'm focusing on front-end web development — I’ve already learned HTML and CSS, and I’m planning to dive into JavaScript soon, then move on to React.
+
+I also have a solid foundation in C++, and I’ve taken a beginner Python course.  
+In the future, I’d love to learn more about Artificial Intelligence and work on meaningful projects that solve real problems.
+
+My goal is to become a skilled developer, build a strong portfolio, and eventually start working with clients or companies who believe in what I can offer.
+
 ---
- 🚀 My Goals
 
-- Build strong, real-world projects and share them on my GitHub
-- Work with clients and provide value through high-quality websites
-- Develop my own personal brand as a reliable and creative developer
-- Stay updated with modern technologies, especially in AI and Web
-- Learn consistently, work hard, and prove myself through action, not just words
+## 🔧 Skills
+
+- **Languages:** HTML, CSS, C++, Python  
+- **Learning:** JavaScript  
+- **Tools:** Git, GitHub, VS Code, Canva
+
 ---
-📈 Current Focus
 
-I’m currently focusing on:
-- Learning JavaScript deeply
-- Building mini-projects using HTML & CSS
-- Getting ready to move into React and dynamic web applications
-- Exploring basics of AI and Python
+## 📁 Projects
+
+### ☕ Coffee Machine Program  
+A simple Python project that simulates a coffee vending machine.  
+It asks the user to choose a drink, checks if resources are enough, processes coins, and returns change if needed.  
+It also includes a report function and shutdown option.
+
+### 🔐 Text Encryption Program  
+This Python program lets the user encrypt and decrypt messages using a basic Caesar cipher.  
+It was a great way to practice loops, strings, and user input.
+
+### 🧮 Simple Calculator  
+A small calculator made with Python. It handles basic operations like addition, subtraction, multiplication, and division.  
+Perfect for getting used to functions and conditionals.
+
+### 🌐 Portfolio Website  
+A personal website built using HTML and CSS.  
+It includes my bio, projects, and contact details — and I plan to improve it as I learn more.
+
 ---
- 📫 Contact
 
-- 📧 Email: hodahatem324@gmail.com
-- 🔗 LinkedIn:https://www.linkedin.com/in/hoda-hatem-12075836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🎯 Goals
 
+- Learn JavaScript and React  
+- Build more real-world projects  
+- Start working with real clients as a freelancer  
+- Explore AI and its applications  
+- Keep learning and improving step by step
+
+---
+
+## 📫 Contact
+
+- **Email:** hodahatem324@gmail.com  
+- **LinkedIn:** [linkedin.com/in/hoda-hatem](https://www.linkedin.com/in/hoda-hatem-12075836a)
+
+---
+
+Thanks for visiting my profile!
